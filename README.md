@@ -5,5 +5,6 @@ IEXE Repositirio prueba
 #### Actividades GIT
 Ejercicios de GIT
 ![Image text](C:\Github_proyect\test-git\captura_log_git.png)
-![(https://github.com/jorvic2021/test-git/blob/main/capturaok_log_git.png?raw=true)]
+![Image text][(https://github.com/jorvic2021/test-git/blob/main/capturaok_log_git.png?raw=true)]
+![Image text]https://github.com/jorvic2021/test-git/blob/main/capturaok_log_git.png
 
