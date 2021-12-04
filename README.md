@@ -1,4 +1,5 @@
 # test-git
-###R epositorio prueba
+### Repositorio prueba
 IEXE Repositirio prueba
 #### Actividades GIT
+Ejercicios de GIT
